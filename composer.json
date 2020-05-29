@@ -1,5 +1,5 @@
 {
-    "name": "velluto/twig-php-function",
+    "name": "umpirsky/twig-php-function",
     "type": "library",
     "description": "Call (almost) any PHP function from your Twig templates.",
     "license": "MIT",
