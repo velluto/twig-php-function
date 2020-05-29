@@ -1,5 +1,5 @@
 {
-    "name": "umpirsky/twig-php-function",
+    "name": "velluto/twig-php-function",
     "type": "library",
     "description": "Call (almost) any PHP function from your Twig templates.",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^7.0",
-        "twig/twig": "^1.28 || ^2.0"
+        "twig/twig": "^1.28 || ^2.0 || ^3.0"
     },
     "require-dev": {
         "phpspec/phpspec": "^4.3.4 || ^5.0 || ^6.0",
